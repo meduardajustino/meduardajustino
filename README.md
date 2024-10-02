@@ -29,5 +29,5 @@ Minha jornada na área de Análise de Dados é uma busca constante por aprimoram
 
 Vamos nos conectar! ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff) [Meu LinkedIn](https://www.linkedin.com/in/meduardajustino)
 
-![Foto de Perfil](linkedin.jpg)
+![Foto de Perfil](linkedin.jpeg)
 
