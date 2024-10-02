@@ -1,16 +1,30 @@
-## Hi there 👋
+![Banner](banner.jpg)
 
-<!--
-**meduardajustino/meduardajustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante da [Reprograma](https://www.reprograma.com.br) em um bootcamp especializado em Análise de Dados utilizando Python. Além disso, estou cursando Ciências Econômicas na UFPE e busco expandir meu conhecimento na área da tecnologia e AI. Essa combinação de formação técnica e acadêmica me permite explorar diferentes perspectivas e aplicar soluções inovadoras.
 
-Here are some ideas to get you started:
+Minha jornada na área de Análise de Dados é uma busca constante por aprimoramento. Estudo e aplico técnicas de análise exploratória, limpeza e visualização de dados utilizando a linguagem Python. Além disso, meu conhecimento em Economia complementa minha visão analítica e me capacita a enfrentar desafios complexos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soft Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=ffffff)
+![IA](https://img.shields.io/badge/IA-ffcc00?style=flat&logo=artificial-intelligence&logoColor=000000)
+![VBA](https://img.shields.io/badge/VBA-3C3F50?style=flat&logo=visual-basic&logoColor=ffffff)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=ffffff)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=ffffff)
+
+### Ferramentas de trabalho
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=ffffff)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=ffffff)
+
+
+## Formas de contato: 
+- [Enviar Email](mailto:madujust...@gmail.com)
+- [Meu Studygram](https://www.instagram.com/seuusuario)
+  
+Vamos nos conectar! [Meu LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+![Foto de Perfil](linkedin.jpg)
+
