@@ -4,7 +4,7 @@ Sou estudante da [Reprograma](https://www.reprograma.com.br) em um bootcamp espe
 
 Minha jornada na área de Análise de Dados é uma busca constante por aprimoramento. Estudo e aplico técnicas de análise exploratória, limpeza e visualização de dados utilizando a linguagem Python. Além disso, meu conhecimento em Economia complementa minha visão analítica e me capacita a enfrentar desafios complexos.
 
-## Soft Skills
+### Soft Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=ffffff)
@@ -22,9 +22,12 @@ Minha jornada na área de Análise de Dados é uma busca constante por aprimoram
 
 
 ## Formas de contato: 
-- [Enviar Email](mailto:madujust...@gmail.com)
-- [Meu Studygram](https://www.instagram.com/seuusuario)
-  
-Vamos nos conectar! [Meu LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+## Formas de Contato
+
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=ffffff) [Enviar Email](mailto:madujustinostudies@gmail.com)
+- ![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=ffffff) [Meu Studygram](https://www.instagram.com/iemstudies)
+
+Vamos nos conectar! ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff) [Meu LinkedIn](https://www.linkedin.com/in/meduardajustino)
+
 ![Foto de Perfil](linkedin.jpg)
 
