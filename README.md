@@ -25,7 +25,7 @@ Minha jornada na área de Análise de Dados é uma busca constante por aprimoram
 - ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=ffffff) [Enviar Email](mailto:madujustinostudies@gmail.com)
 - ![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=ffffff) [Meu Studygram](https://www.instagram.com/iemstudies)
 
-Vamos nos conectar! ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff) [Meu LinkedIn](https://www.linkedin.com/in/meduardajustino)
+Vamos nos conectar! ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff) [Meu LinkedIn](https://www.linkedin.com/in/meduardajustino/)
 
 ![Foto de Perfil](linkedin.jpeg)
 
