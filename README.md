@@ -9,7 +9,7 @@ Minha jornada na área de Análise de Dados é uma busca constante por aprimoram
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=ffffff)
-[![IA]((https://img.shields.io/badge/IA-IA-blue?style=flat&logo=ai))
+[![AI](https://img.shields.io/badge/IA-IA-blue?style=flat)
 ![VBA](https://img.shields.io/badge/VBA-VBA-green?style=flat&logo=vba)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=ffffff)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=ffffff)
