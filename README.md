@@ -1,6 +1,6 @@
 ![Banner](banner.jpg)
 
-Sou estudante da [Reprograma](https://www.reprograma.com.br) em um bootcamp especializado em Análise de Dados utilizando Python. Além disso, estou cursando Ciências Econômicas na UFPE e busco expandir meu conhecimento na área da tecnologia e AI. Essa combinação de formação técnica e acadêmica me permite explorar diferentes perspectivas e aplicar soluções inovadoras.
+Sou formada em um bootcamp especializado em Análise de Dados utilizando Python da [Reprograma](https://www.reprograma.com.br). Além disso, estou cursando Ciências Econômicas na UFPE e busco expandir meu conhecimento na área da tecnologia e AI. Essa combinação de formação técnica e acadêmica me permite explorar diferentes perspectivas e aplicar soluções inovadoras.
 
 Minha jornada na área de Análise de Dados é uma busca constante por aprimoramento. Estudo e aplico técnicas de análise exploratória, limpeza e visualização de dados utilizando a linguagem Python. Além disso, meu conhecimento em Economia complementa minha visão analítica e me capacita a enfrentar desafios complexos.
 
