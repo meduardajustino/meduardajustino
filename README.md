@@ -4,7 +4,7 @@ Sou formada em um bootcamp especializado em Análise de Dados utilizando Python 
 
 Minha jornada na área de Análise de Dados é uma busca constante por aprimoramento. Estudo e aplico técnicas de análise exploratória, limpeza e visualização de dados utilizando a linguagem Python. Além disso, meu conhecimento em Economia complementa minha visão analítica e me capacita a enfrentar desafios complexos.
 
-## Soft Skills
+## Hard Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
@@ -17,9 +17,13 @@ Minha jornada na área de Análise de Dados é uma busca constante por aprimoram
 
 ## Ferramentas de trabalho
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=ffffff)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=ffffff)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=ffffff)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazon-aws&logoColor=ffffff)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff)
+
 
 ## Formas de Contato
 
